@@ -1,1 +1,7 @@
-first file created in this (git practice code)
+first file created in this (git practice code). -this is first msg
+
+
+#below is new added some text.(just modification and check some code in git)
+
+ -here i am adding some line.
+       This is python machine learning class.
